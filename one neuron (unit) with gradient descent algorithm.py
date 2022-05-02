@@ -17,10 +17,7 @@ import numpy as np
 from sklearn.datasets import load_diabetes
 import matplotlib.pyplot as plt
 
-# data set preparation
-# edited for practicing
-# edited for practicing 2
-# edited for practicing 4 (in main)
+# data set preparationgit 
 diabetes = load_diabetes()
 x = diabetes.data
 y = diabetes.target
